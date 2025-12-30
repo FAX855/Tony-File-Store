@@ -31,7 +31,7 @@ logging.getLogger("aiohttp.web").setLevel(logging.ERROR)
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@TonyStarkBotz
 # Ask Doubt on telegram @TonyStarkBotzXBotz
 
-
+from pyrogram import utils as pyroutils
 from pyrogram import Client, __version__
 from pyrogram.raw.all import layer
 from config import Var, LOG_CHANNEL
@@ -101,7 +101,8 @@ async def start():
     await restart_bots()
     print("Bot Started Powered By @TonyStark_Botz")
     await idle()
-
+pyroutils.MIN_CHAT_ID = -999999999999
+pyroutils.MIN_CHANNEL_ID = -100999999999999
 # Don't Remove Credit Tg - @TonyStark_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@TonyStarkBotz
 # Ask Doubt on telegram @TonyStarkBotzXBotz
