@@ -49,7 +49,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Tony_Stark_75>𝐓𝐨𝐧𝐲 𝐒𝐭𝐚𝐫𝐤</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/laser_of_telegram>ꜰᴀx</a>
 
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/faxfiles>𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
@@ -141,4 +141,5 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @TonyStark_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@TonyStarkBotz
 # Ask Doubt on telegram @TonyStarkBotzXBotz
+
 
