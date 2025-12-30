@@ -45,7 +45,7 @@ DB_NAME = environ.get("DB_NAME", "tonystarkbotz")
 # Ask Doubt on telegram @TonyStarkBotzXBotz
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "8443802478:AAEvWJabcAbiKyJCGukPWg62hh5iJNrPrXk")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8443802478:AAGLGYBtzF3F6ic79GZ_6O702nrK60UNcew")
 BOT_USERNAME = environ.get("BOT_USERNAME", "Files_store_cp_clone_bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://files.catbox.moe/569vdn.jpg')).split() # Bot Start Picture
 
